@@ -1,9 +1,28 @@
-# Olá me chamo Danilo 👋
+# Olá, eu sou Danilo Queiroz 👋
 
-### Analista em formação.
-### Futuro engenheiro de dados.
+Bem-vindo ao meu perfil! Sou analista de sistema em formação pela UNIFACS.
+ apaixonado por tecnologiaex: desenvolvimento web, inteligência artificial, engenharia e analise de dados.
+
+## Sobre Mim
+
+- 🌱 Atualmente sou bolsista na Compass Uol ( engenharia de dados).
+- 💼 Experiência em: JS, SQL, PYTHON, JAVA. 
+- 📫 Como me encontrar: daniloqr1990@gmail.com
+
+## Projetos em Destaque
+
+- [COMPASS UOL ](link-do-projeto): Em desenvolivmento.
 
 
+## Tecnologias e Ferramentas
+
+- Linguagens: JavaScript, Python, Java, SQL.
+- Frameworks: React, Django, Flask, Spring Bot. 
+- Ferramentas: Git e GitHub
+
+## Contribuições
+
+Estou sempre aberto(a) a colaborações e novas ideias! Sinta-se à vontade para entrar em contato.
 
 ##
 
