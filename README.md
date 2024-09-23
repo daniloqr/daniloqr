@@ -1,7 +1,7 @@
-### Olá me chamo Danilo 👋
+# Olá me chamo Danilo 👋
 
-# Analista em formação.
-# Futuro engenheiro de dados.
+### Analista em formação.
+### Futuro engenheiro de dados.
 
 
 
